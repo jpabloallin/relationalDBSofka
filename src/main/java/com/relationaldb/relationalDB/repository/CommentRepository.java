@@ -1,6 +1,6 @@
 package com.relationaldb.relationalDB.repository;
 
-import com.sofkaU.relationalDB.entity.Comment;
+import com.relationaldb.relationalDB.entity.Comment;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
